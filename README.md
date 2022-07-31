@@ -11,7 +11,7 @@ Je ne peux par contre pas sauvegarder d'autre répertoires "favoris" pour pouvoi
 
 Dans le but de pouvoir utiliser ce script à bon essien, il est primodial de respecter les étapes et instructions ci-dessous : 
 
-* Cloner le projet en dépôt local avec la commande : git clone 
+* Cloner le projet en dépôt local avec la commande : git clone https://github.com/Paxterson32/Gestion-des-Favoris.git
 * Une fois en local, placez-vous dans le répertoire contenant le fichier favoris.sh
 * Dans le but de ne pas avoir à repéter le chemin vers ce script à chaque fois, veuillez ajouter ce emplacement à la variable d'environnement $PATH
   *   Tapez dans l'invite de commande : PATH=$PATH:$PWD
