@@ -43,5 +43,7 @@ Dans le but de pouvoir utiliser ce script à bon essien, il est primodial de res
         $ cd
         $ C info202-5
         Le favoris "info202-5" n'existe pas.
+        
+# NB : Il est à noter que la commande export dans la partie complétion de la variable PATH ne fonctionne pas correctement
 
 
